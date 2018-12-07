@@ -1,0 +1,2 @@
+# BeyondaBagofWords
+Python, Django, NLTK
